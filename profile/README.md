@@ -1,12 +1,5 @@
-## Hi there 👋
+![Terminal Forge Logo](./banner.png)
 
-<!--
+Terminal Forge aims to be the go-to knowledge base for developers building CLI and TUI applications. Our vision is to empower developers with up-to-date resources, best practices, and tools to create great terminal applications. Terminal Forge is committed to remaining a non-profit, open-source initiative, ensuring that knowledge and resources are freely accessible to all developers, now and in the future.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🍿 Stay tuned for more to come! 🍿
